@@ -25,7 +25,7 @@ pip install vantage6
 ## Step 3: Obtain API Key and Sample Datasets
 Send an email to ``Narasimha.Raghavan[at]kreftregisteret.no`` including your organization name and address to receive your API key and sample datasets (along with the datasets' label name) that you need as part of your node's configuration.
 
-## Step 4: Obtain API Key and Sample Datasets
+## Step 4: Register your node 
 After receiving the API key and datasets, register your node against our server by running:
 ```bash
 v6 node new
@@ -54,5 +54,11 @@ v6 node new
 
 **[info]** - You can start the node by running:  ``v6 node start``
 
-## Step 5: Documentation 
+## Step 5: Run your node 
+To start your node, execute 
+```bash
+v6 node start
+```
+
+## Step 6: Documentation 
 Further documentation can be found at the [official vantage6 documentation](https://docs.vantage6.ai/en/main/)_.
