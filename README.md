@@ -54,6 +54,16 @@ v6 node new
 
 **[info]** - You can start the node by running:  ``v6 node start``
 
+## Step 4b: (2 nodes and synthetic datasets)
+This step is needed only when there are 2 nodes in the consortium and both the nodes are using synthetic datasets. 
+Add the following lines to your node's configuration file. The path can be located by checking the [info] message or by typing ``v6 node files``
+
+```bash
+algorithm_env:
+  KAPLAN_MEIER_MINIMUM_ORGANIZATIONS: 2 
+```
+You can read more about the privacy guard of Vantage6 at the [Federated Kaplan Meier Official Vantage6 documentation](https://algorithms.vantage6.ai/en/latest/v6-kaplan-meier-py/docs/v6-kaplan-meier-py/privacy.html). 
+
 ## Step 5: Run your node 
 To start your node, execute 
 ```bash
