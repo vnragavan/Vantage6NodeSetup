@@ -56,7 +56,7 @@ v6 node new
 
 ## Step 4b: (2 nodes and synthetic datasets)
 This step is needed only when there are 2 nodes in the consortium and both the nodes are using synthetic datasets. 
-Add the following lines to your node's configuration file. The path can be located by checking the [info] message or by typing ``v6 node files``
+Add the following lines to your node's configuration file. The path can be located by checking the [info] message or by executing the command ``v6 node files``
 
 ```bash
 algorithm_env:
