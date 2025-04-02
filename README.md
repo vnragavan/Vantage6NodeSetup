@@ -22,7 +22,7 @@ source vantage6_env/bin/activate
 pip install vantage6
 ```
 
-## Step 3: Obtain API Key and Sample Datasets
+## Step 3: Obtain an API Key and Sample Datasets
 Send an email to ``Narasimha.Raghavan[at]kreftregisteret.no`` including your organization name and address to receive your API key and sample datasets (along with the datasets' label name) that you need as part of your node's configuration.
 
 ## Step 4: Register your node 
