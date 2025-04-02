@@ -8,7 +8,7 @@ Follow the node administration requirements from the official vantage6 documenta
 
 Ensure you have installed:
 
-- Python
+- Python (Version 3.10 and above)
 - pip
 - Docker and Docker Compose
 
