@@ -1,6 +1,6 @@
 # Vantage6 Node Setup Guide
 
-This guide outlines how to set up and run a vantage6 node against Cancer Registry of Norway's  Vantage6 server.
+This guide outlines how to set up and run a vantage6 node against Cancer Registry of Norway's Vantage6 server, especially for the use case of Federated Kaplan Meier curves. 
 
 ## Step 1: Requirements
 
