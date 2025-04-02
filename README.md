@@ -4,7 +4,7 @@ This guide outlines how to set up and run a vantage6 node against Cancer Registr
 
 ## Step 1: Requirements
 
-Follow the node administration requirements from the official vantage6 documentation: [vantage6 Node Requirements](https://docs.vantage6.ai/en/main/node/requirements.html)
+Follow the node administration requirements from the official vantage6 documentation: [Vantage6 Node Requirements](https://docs.vantage6.ai/en/main/node/requirements.html)
 
 Ensure you have installed:
 
