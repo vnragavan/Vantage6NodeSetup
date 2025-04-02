@@ -71,4 +71,4 @@ v6 node start
 ```
 
 ## Step 6: Documentation 
-Further documentation can be found at the [official vantage6 documentation](https://docs.vantage6.ai/en/main/)_.
+Further documentation can be found at the [official Vantage6 documentation](https://docs.vantage6.ai/en/main/).
